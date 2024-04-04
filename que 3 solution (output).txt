@@ -1,0 +1,7 @@
+counting no of words in a string 
+java -cp /tmp/IOaGK2c9kj/WordCounter
+Enter your string:
+Hello ,Hello world
+Occurrences of each word:
+hello: 2
+world:1
